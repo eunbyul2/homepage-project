@@ -1,3 +1,3 @@
 # homepage-project
 깃허브
-![Main Image].(homepage-main.JPG).
+![Main Image]_(homepage-main.JPG).
